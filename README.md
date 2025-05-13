@@ -1,8 +1,9 @@
-# NAME: THRINESH ROYAL
-# REG NO: 212223230226
+
 # Exp - 2 LIBRARY MANAGEMENT SYSTEM
 
 # AIM: To draw a UML diagram for a library management system
+# NAME: THRINESH ROYAL
+# REG NO: 212223230226
 
 # SRS (Procedure):
 Actors Used-:
